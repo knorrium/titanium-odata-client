@@ -26,7 +26,7 @@ function MasterView() {
 	ind.show();
     	
     	
-    	// This is how we retrieve the movie list from Netflix over OData protocol, using JayData
+    // This is how we retrieve the movie list from Netflix over OData protocol, using JayData
 	// The Netflix context an Title entity is defined in the netflix.js context definition
 	// JavaScript Language Query (JSLQ) syntax can be used to define what to retrieve with JayData
 	// more details: http://jaydata.org/blog/javascript-language-query-jslq-101

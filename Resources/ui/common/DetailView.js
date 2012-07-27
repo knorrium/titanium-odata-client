@@ -1,6 +1,6 @@
 function DetailView() {
 	
-	
+	//load jaydata library, OData provider and the netflix context definition
 	if (Ti.Platform.osname == 'android'){
 	    Ti.include(Ti.Filesystem.resourcesDirectory + 'jaydata.js');
 	    Ti.include(Ti.Filesystem.resourcesDirectory + 'jaydataproviders/oDataProvider.js');
