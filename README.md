@@ -8,6 +8,8 @@ This is a demo project derived from Titanium Mobile Project, thanks to Appcelera
 The sourcecode was modified by JayData developer team in order to demonstrate data management with JayData library.
 As this project is a proof-of-concept done, it's recommended to check the official Titanium documentation for best practices.
 
+Copyright JayStack Technologies LLC
+
 This is a master detail view application, utilizing a native table view component and platform-specific UI and navigation. A starting point for a navigation-based application with hierarchical data, or a stack of windows. Requires Titanium Mobile SDK 1.8.0+.
 Stuff our legal folk make us say:
 
